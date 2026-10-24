@@ -1,0 +1,8 @@
+{
+  "name": "sc234-cabang-caringin",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node test.mjs" },
+  "dependencies": { "@upstash/redis": "^1.34.0" }
+}
